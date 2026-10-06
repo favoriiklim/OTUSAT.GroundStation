@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CubeSatTelemetry.Decoder/CubeSatTelemetry.Decoder.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CubeSatTelemetry.Decoder.Tests/CubeSatTelemetry.Decoder.Tests.csproj" />
+  </Folder>
+</Solution>
